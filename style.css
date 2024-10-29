@@ -1,1 +1,10 @@
-body {background-color: aquamarine;}
+
+body{background-color: antiquewhite;}
+body1{font-family: 'Times New Roman', Times, serif; color: black; text-align: left; vertical-align: middle;}
+img{box-shadow: 10px 10px 10px rgba(243, 0, 0, 0.3);position:absolute;right: 100px;}
+body3{font-family: 'Times New Roman', Times, serif; color: blueviolet; text-align: left;}
+table, th, td{border: 2px solid; color: black;text-align: left; width: 50%;}
+h1{font-family: 'Times New Roman', Times, serif; color:red; font-size:120px; text-align: center;}
+h2{font-family: 'Times New Roman', Times, serif; color: red; font-size:24px; text-align: left;}
+tr{font-family: 'Times New Roman', Times, serif; color: black; font-size: 24px; text-align: left;}
+
